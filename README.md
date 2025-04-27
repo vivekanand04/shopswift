@@ -1,21 +1,44 @@
-# BlinkIt-Clone-Full-Stack-Ecommerce
-BlinkIt-Clone-Full-Stack-Ecommerce
+# **Binkeyit - Your Virtual Mall**
 
-![Alt text](Thumnails.png?raw=true "Title")
+### **Tech Stack:** React, Node.js, MongoDB, Express.js
 
-Build a complete e-commerce platform that looks like Blinkit using the MERN stack! In this project, we will create an online shopping site with key features, including product uploads, an admin panel, and management for categories and subcategories. We will use access and refresh tokens to establish secure user authentication. You will also learn how to set up password recovery, OTP-based email verification, and secure authentication processes. This project is a great way to improve your skills in MongoDB, Express, React, and Node.js.
+**August 2024**
 
-# Demo 
-![Alt text](Demo%201.gif?raw=true "demo1")
-![Alt text](Demo%202.gif?raw=true "demo2")
+---
 
-# Assets File
-Google Drive : https://drive.google.com/drive/folders/1llzO3ts3NJKrQ0A2XWZYaO-T0Qnyq6yO?usp=sharing
+### **Project Overview:**
 
- <a href="https://www.linkedin.com/in/itsamitprajapati" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="amit prajapati"/>
- </a>
+**Binkeyit** is a full-featured e-commerce website developed to create a seamless and secure shopping experience. The platform provides users with the ability to browse products, manage a shopping cart, and complete transactions, while offering enhanced security features like user authentication, OTP-based password recovery, and admin role management.
 
- Youtube : Dynamic Coding with Amit
+Live Demo: https://youtu.be/9BADNfFO6ic?si=cT_blpwM7KES-30j
 
- 
+---
+
+### **Features:**
+
+- **User Authentication:**
+  - Login and Signup system.
+  - OTP-based password recovery for improved security.
+  - Role-based access control (Admin & User roles) to restrict access to specific functionalities.
+
+- **Product Search and Filters:**
+  - Efficient product search with filters and keyword-based search to help users find products easily.
+
+- **Shopping Cart System:**
+  - Users can add, update, or remove items from the shopping cart.
+  - Integrated with the seller dashboard to manage products in the cart.
+
+- **Seller Dashboard:**
+  - Sellers can upload new products, track inventory, and manage their listings.
+
+- **Payment Gateway Integration:**
+  - Multiple secure payment methods are available for smooth and safe online transactions.
+
+---
+
+### **Installation & Setup:**
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/your-username/Binkeyit.git
